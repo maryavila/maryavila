@@ -19,7 +19,7 @@
  <img align="center" alt="mary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="mary-gif" height="100" width="100" src="https://cdn.discordapp.com/attachments/1249763034776473791/1308469114116771941/gif.gif?ex=673e0e52&is=673cbcd2&hm=78055ca2a307c7217a91babcbdde7344549fd28744dd9a8a4de831c4bf493103&">
+  <img align="right" alt="mary-gif" height="140" width="140" src="https://cdn.discordapp.com/attachments/1249763034776473791/1308469114116771941/gif.gif?ex=673e0e52&is=673cbcd2&hm=78055ca2a307c7217a91babcbdde7344549fd28744dd9a8a4de831c4bf493103&">
 </div>
   
   ##
