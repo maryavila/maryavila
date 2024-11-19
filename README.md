@@ -4,7 +4,7 @@
 <div>
 <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78CCE&width=435&separator=%3C&lines=Ol%C3%A1%2C+eu+me+chamo+Mariany+%C3%81vila!%3CMas+pode+me+chamar+de+Mary+%3CEu+tenho+21+anos%3CEu+sou+estudante+de+ADS%3CSeja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6897&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Mariany+%C3%81vila!;Mas+pode+me+chamar+de+Mary+;Eu+tenho+21+anos;Eu+sou+estudante+de+ADS;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 <div>
 
 <div>
