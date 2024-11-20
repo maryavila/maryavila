@@ -8,6 +8,7 @@
 <div>
 
 <div>
+  <a href="https://beacons.ai/maryavilaa">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=maryavila&show_icons=true&theme=date_night&include_all_commits=ture7count_private=true"/>
     <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryavila&layout=compact&langs_count=16&theme=date_night"/>
 </div>
