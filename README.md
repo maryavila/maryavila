@@ -7,9 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6897&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Mariany+%C3%81vila!;Mas+pode+me+chamar+de+Mary+;Eu+tenho+21+anos;Eu+sou+estudante+de+ADS;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 <div>
 
-<div>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=maryavila&show_icons=true&theme=date_night&include_all_commits=ture7count_private=true"/>
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryavila&layout=compact&langs_count=16&theme=date_night"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maryavila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maryavila&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div style="display: inline_block"><br>
