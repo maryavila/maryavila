@@ -35,7 +35,6 @@
   <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" alt="mary-Pycharm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="mary-Eclipse" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
-  <img align="right" alt="mary-gif" height="135" width="135" src="https://cdn.discordapp.com/attachments/1249763034776473791/1308469114116771941/gif.gif?ex=673e0e52&is=673cbcd2&hm=78055ca2a307c7217a91babcbdde7344549fd28744dd9a8a4de831c4bf493103&">
   <img align="right" alt="sylus-png" height="135" width="135" src="https://static.wikia.nocookie.net/loveanddeepspace/images/b/bb/Sylus_Likes_Chibi.png/revision/latest/smart/width/250/height/250?cb=20240727211912">
 </div>
   
