@@ -10,13 +10,22 @@
 </div>
 
 ## 
-🕯️. ‘ + * Estudante de Análise e Desenvolvimento de Sistemas do 2ª Semestre 🧸 + . 🤎 
+🕯️. ‘ + * Oi! Meu nome é Mariany e sou estudante de Análise e Desenvolvimento de Sistemas (2º semestre). 
 
-・.♛ Apaixonada por Cibersegurança ⬪:˵ˊ
+✩°｡🦦 Sou apaixonada por Cibersegurança, especialmente a área ofensiva, e estou sempre buscando aprender como as coisas funcionam "por trás das telas" 🖥️🕵🏻‍♀️
 
-‧₊⊹ Atualmente estou aprendendo Java e MySQL ❥
+⋆.˚🦋༘⋆ Atualmente, estou estudando Java e MySQL, mas também tenho experiência com HTML, CSS, JavaScript, Python e Ruby. 
 
-✿ Adoro jogar jogos online e música (inclusive toco vários instrumentos) *ੈ‧₊˚
+┆ ⤿ 💌 Além da faculdade, estou fazendo um curso de hacking pela Solyd Offensive Security — porque proteger sistemas também pode ser empolgante (e perigoso de um jeito bom 😈🔐)
+
+・.♛ Tenho o sonho de um dia trabalhar com segurança ofensiva, ajudando a tornar o mundo digital mais seguro, criativo e acessível. Também quero explorar o desenvolvimento web e mobile com foco em segurança!
+
+‧₊⊹ Sempre estou estudando e evoluindo — inclusive faço cursos online e adoro aprender novos idiomas. No momento, estudo francês, italiano e japonês! 🌍💬
+
+*ੈ‧₊˚🎮 Fora do mundo tech, amo jogar jogos online, ouvir música e tocar instrumentos (guitarra, teclado, violão, escaleta... a lista vai longe 🎸🎹).
+
+⬪:˵ˊ✨ Sou criativa, curiosa, dedicada e adoro trabalhar em equipe. Acredito que a tecnologia é ainda mais mágica quando é compartilhada.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryavila&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -25,7 +34,7 @@
 
 # ꒰🌼꒱ ५◦ My Tools ★ 𓂃
 <div style="display: inline_block"><br>
-  ⊹₊ ⋆ Ferramentas que utilizo na minha jornada da Programação.
+  ⊹₊ ⋆ Ferramentas que utilizo na minha jornada da Programação: São elas que me acompanham todos os dias enquanto eu descubro, aprendo e crio soluções incríveis com código. Cada uma tem seu papel especial nessa trajetória cheia de bugs, conquistas e sonhos tech! ☕💻✨
   <h2>──★˙🍓̟!Languages</h2>
   <img align="center" alt="mary-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mary-ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
