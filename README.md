@@ -45,7 +45,7 @@
   <h2>⋆｡‧°ʚ🍒ɞ°‧｡⋆Data Base</h2>
   <img align="center" alt="mary-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <h2>꒰ 🥥 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
-  <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="mary-Pycharm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="mary-Eclipse" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
   <img align="right" alt="sylus-png" height="135" width="135" src="https://static.wikia.nocookie.net/loveanddeepspace/images/b/bb/Sylus_Likes_Chibi.png/revision/latest/smart/width/250/height/250?cb=20240727211912">
