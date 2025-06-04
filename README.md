@@ -44,6 +44,8 @@
   <img align="center" alt="mary-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <h2>⋆｡‧°ʚ🍒ɞ°‧｡⋆Data Base</h2>
   <img align="center" alt="mary-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <h2>𓂃⭒𓆩⚔️𓆪⭒𓂃Cybersecurity Tools</h2>
+  <img align="center" alt="mary-Kali" height="70" width="70" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000"/>
   <h2>꒰ 🥥 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
   <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="mary-Pycharm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
