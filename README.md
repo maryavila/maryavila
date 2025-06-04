@@ -16,8 +16,6 @@
 
 ⋆.˚🦋༘⋆ Atualmente, estou estudando Java e MySQL, mas também tenho experiência com HTML, CSS, JavaScript, Python e Ruby. 
 
-┆ ⤿ 💌 Além da faculdade, estou fazendo um curso de hacking pela Solyd Offensive Security — porque proteger sistemas também pode ser empolgante (e perigoso de um jeito bom)
-
 ・.♛ Tenho o sonho de um dia trabalhar com segurança ofensiva, ajudando a tornar o mundo digital mais seguro, criativo e acessível. Também quero explorar o desenvolvimento web e mobile com foco em segurança!
 
 ‧₊⊹ Sempre estou estudando e evoluindo — inclusive faço cursos online e adoro aprender novos idiomas. No momento, estudo francês, italiano e japonês!
