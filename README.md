@@ -10,7 +10,7 @@
 </div>
 
 ## 
-🕯️. ‘ + * Oi! Meu nome é Mariany e sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre). 
+🕯️. ‘ + * Oi! Meu nome é Mariany e sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre). 
 
 ✩°｡🦦 Sou apaixonada por Cibersegurança, especialmente a área ofensiva, e estou sempre buscando aprender como as coisas funcionam "por trás das telas" 
 
