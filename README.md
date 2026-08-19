@@ -14,15 +14,7 @@
 
 ✩°｡🦦 Sou apaixonada por Cibersegurança, especialmente a área ofensiva, e estou sempre buscando aprender como as coisas funcionam "por trás das telas" 
 
-⋆.˚🦋༘⋆ Atualmente, estou estudando Java e MySQL, mas também tenho experiência com HTML, CSS, JavaScript, Python e Ruby. 
-
-・.♛ Tenho o sonho de um dia trabalhar com segurança ofensiva, ajudando a tornar o mundo digital mais seguro, criativo e acessível. Também quero explorar o desenvolvimento web e mobile com foco em segurança!
-
-‧₊⊹ Sempre estou estudando e evoluindo — inclusive faço cursos online e adoro aprender novos idiomas. No momento, estudo francês, italiano e japonês!
-
-*ੈ‧₊˚🎮 Fora do mundo tech, amo jogar jogos online, ouvir música e tocar instrumentos (guitarra, teclado, violão, escaleta... a lista vai longe).
-
-⬪:˵ˊ✨ Sou criativa, curiosa, dedicada e adoro trabalhar em equipe. Acredito que a tecnologia é ainda mais mágica quando é compartilhada.
+⬪:˵ˊ✨ Fique a vontade para conhecer um pouco dos meus projetos!
 
 
 <div align="center">
