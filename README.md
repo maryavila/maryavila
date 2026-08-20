@@ -30,9 +30,9 @@
   <img align="center" alt="mary-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <h2>⭒ː͡➘₊̣̇⚔️ː͡➘₊̣̇Cybersecurity Tools</h2>
   <img align="center" alt="mary-Kali" height="70" width="70" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000"/>
-  <img align="center" alt="mary-Nmap" height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png"/>
-  <img align="center" alt="mary-Wireshark" height="70" width="80" src="https://github.com/user-attachments/assets/73e67397-a0df-4329-9f21-c6788165dbb0"/>
-  <img align="center" alt="mary-Owasp" height="70" width="80" src="https://github.com/user-attachments/assets/d9516fcb-fcc4-435f-bc6e-6057192c501d"/>
+  <img align="center" alt="mary-Nmap" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png"/>
+  <img align="center" alt="mary-Wireshark" height="65" width="80" src="https://github.com/user-attachments/assets/73e67397-a0df-4329-9f21-c6788165dbb0"/>
+  <img align="center" alt="mary-Owasp" height="70" width="90" src="https://github.com/user-attachments/assets/d9516fcb-fcc4-435f-bc6e-6057192c501d"/>
   <h2>꒰ 🥥 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
   <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="mary-Pycharm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
